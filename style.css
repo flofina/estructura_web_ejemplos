@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    height: 100px;
+    color: violet;
+    background-color: black;
+    text-align: center;
+    vertical-align: center;
+    font-size: 20px;
+    padding: 30px;
+}
+
+nav {
+    color: black;
+    background-color: violet;
+    font-size: 20px;
+    text-align: right;
+    vertical-align: center;
+    padding: 30px;
+}
+
+li {
+    display: inline-block;
+}
+
+.about-us {
+    background-color: lightpink;
+    padding: 30px;
+}
+
+.services {
+    background-color: lightslategray;
+    padding: 30px;
+}
+
+footer {
+    background-color: lightsteelblue;
+    padding:30px;
+}
